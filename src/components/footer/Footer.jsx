@@ -1,6 +1,7 @@
 import { useEffect } from "react";
 import "./footer.scss";
-import { useState } from "react";
+import { useState} from "react";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   const [currentYear, setCurrentYear] = useState();
@@ -12,7 +13,9 @@ const Footer = () => {
     <>
       <div className="footer">
         <div className="downloadcv">
+          <Link className="downloadcvlink" to = "/mycv">
           <p>click to view my CV</p>
+          </Link> 
         </div>
         <div className="footerthings">
            <h6>Or contact me via :</h6>

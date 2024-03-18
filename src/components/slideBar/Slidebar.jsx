@@ -107,13 +107,13 @@ function Slidebar() {
               <nav className="menunavphone">
                 <ul>
                   <li>
-                    <a href="#">Home</a>
+                    <a href="http//">Home</a>
                   </li>
                   <li>
-                    <a href="#">Projects</a>
+                    <a href="http//">Projects</a>
                   </li>
                   <li>
-                    <a href="#">Career</a>
+                    <a href="http//">Career</a>
                   </li>
                 </ul>
               </nav>
@@ -139,7 +139,7 @@ function Slidebar() {
 
                 </a>
 
-                <a href="">
+                <a href="http//">
                 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="30" height="30" viewBox="0 0 256 256"
      >
     <g  fillRule="nonzero" stroke="none" strokeWidth="1" strokeLinecap="butt" strokeLinejoin="miter" strokeMiterlimit="10" strokeDasharray="" strokeDashoffset="0" fontFamily="none" fontWeight="none" fontSize="none" textAnchor="none" style={{ mixBlendMode: "normal" }}>
@@ -184,13 +184,13 @@ function Slidebar() {
             <nav className="menunav">
               <ul>
                 <li>
-                  <a href="#">Home</a>
+                  <a href="http//">Home</a>
                 </li>
                 <li>
-                  <a href="#">Projects</a>
+                  <a href="http//">Projects</a>
                 </li>
                 <li>
-                  <a href="#">Career</a>
+                  <a href="http//">Career</a>
                 </li>
               </ul>
             </nav>
@@ -220,7 +220,7 @@ function Slidebar() {
             </div>
             <div>
 
-            <a href="">
+            <a href="http//">
                 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="25" height="30" viewBox="0 0 256 256"
      >
     <g  fillRule="nonzero" stroke="none" strokeWidth="1" strokeLinecap="butt" strokeLinejoin="miter" strokeMiterlimit="10" strokeDasharray="" strokeDashoffset="0" fontFamily="none" fontWeight="none" fontSize="none" textAnchor="none" style={{ mixBlendMode: "normal" }}>

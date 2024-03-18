@@ -48,7 +48,9 @@ p{
     .downloadcv {
         padding-top: 10px;
         //margin-bottom: 10px;
-        
+        .downloadcvlink{
+            text-decoration: none;
+        }
         p{
         width: fit-content;
         padding: 5px;
@@ -59,6 +61,7 @@ p{
         transition: 1s;
         margin: auto;
         cursor: pointer;
+        text-decoration: none;
        
     }
       p:hover{

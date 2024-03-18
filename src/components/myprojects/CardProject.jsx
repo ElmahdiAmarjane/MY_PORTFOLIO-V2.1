@@ -9,8 +9,8 @@ import Aos from "aos"
 import 'aos/dist/aos.css'
 
 const CardProject = () => {
-  const cardProjectdiv = document.getElementById("CardProject");
-  const pictures = document.getElementById("pictures");
+  //const cardProjectdiv = document.getElementById("CardProject");
+  //const pictures = document.getElementById("pictures");
   const projectsJSON =  projectsinfos;
   useEffect(()=>{
     Aos.init({duration:2000});
