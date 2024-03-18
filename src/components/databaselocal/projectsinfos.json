@@ -1,0 +1,45 @@
+[
+    {
+     "image" : "lafargeproject",
+     "type":"Application web",
+     "title":"MANAGE IT EQUIPMENT STOCK",
+     "description":"First app , manage computers, keyboroads,chargers , screens , HDDs , USBs ",
+     "technologies":["HTML5" , "CSS3" , "JAVASCRIPT"]
+   },
+   {
+    "image" : "worldcupqatar",
+    "type":"WEB Application",
+    "title":"WORCL CUP QATAR 2022",
+    "description":"know results of match ; staduims infos , unsing API ",
+    "technologies":["HTML5" , "CSS3" , "JAVASCRIPT" , "AXIOS"]
+  },
+  {
+    "image" : "starthincinvoice",
+    "type":" WEB Application ",
+    "title":"Generate incoice Online Automaticlly",
+    "description":"know results of match ; staduims infos , unsing API ",
+    "technologies":["REACTJS" , "SASS" , "NODEJS" , "EXPRESS" , "POSTGRESQL"]
+  },
+  {
+    "image" :"netlogopfe",
+    "type":"Agent-based models",
+    "title":"Prediction AL7ARI9  ",
+    "description":"know results of match ; staduims infos , unsing API ",
+    "technologies":["Netlogo" , "Arduino C"]
+  },
+  {
+    "image" : "sipswift",
+    "type":"mobile app",
+    "title":"SipSwift mobile App reservation",
+    "description":"reserve and command 3assir from univirsite coffee",
+    "technologies":["kotlin" , "Android studio"]
+  },
+  {
+    "image" : "notejee",
+    "type":"web jakarta",
+    "title":"Manage notes JEE App",
+    "description":"Manage your notes",
+    "technologies":["JEE" , "reactJS"]
+  }
+
+]

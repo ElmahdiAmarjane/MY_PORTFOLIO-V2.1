@@ -1,0 +1,123 @@
+.allCareer{
+  padding-bottom: 1px;
+  background-image: linear-gradient(to left bottom, #26268a, #282a7c, #2b2d6d, #2d2f5e, #30314f, #33334a, #353544, #37373f, #3b3b42, #3f3f45, #444449, #48484c);}
+.career-timeline {
+    position: relative;
+    margin: 50px auto;
+    width: 60%;
+    color: beige;
+   // background-color: #333;
+  }
+  .carrerTitleDiv h2{
+    color: beige;
+    background-clip: text;
+    color: transparent;
+    background-image: linear-gradient(to right, #a6ff00, #a6ff00b0,transparent);
+  }
+  
+  .vertical-line {
+    // position: absolute;
+    // top: 0;
+    // left: 50%;
+    // width: 5px;
+    // height: 100%;
+    // background-color: #ffffff;
+    // transform: translateX(-50%);
+    
+      position:fixed;
+     
+     top: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 100%;
+    width: 2px;
+    background: linear-gradient(to bottom,  #ffffff00 20%, #a6ff00 50%, #ffffff2a 50%, #ffffff00 100%);
+    transition: background-position 0.3s ease-in-out;
+    
+   
+  }
+ 
+  
+  .career-item-scroll {
+  
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 2s ease, transform 0.5s ease;
+   
+
+  }
+
+  .career-item-scroll.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+
+
+
+.carrerTitleDiv{
+     text-align: center;
+    padding-top: 20px;
+}
+
+.rightPartCareer{
+ // background-color: green;
+  width: 50%;
+ // margin-top: 300px;
+   
+ .career-item-scroll {
+  
+  margin-top: 250px;
+
+
+
+}
+
+}
+.careerItemright{
+  //margin-left: auto;
+ //margin-top: 200px;
+
+
+   
+}
+
+.leftPartCareer{
+ //background-color: blue;
+  // .career-item{
+  //  // margin-bottom: 200px;
+    
+  //}
+  .career-item-scroll {
+  
+    margin-bottom: 250px;
+  
+  
+  }
+  width: 50%;
+}
+.hrincareer{
+    color: #a6ff00;
+    
+}
+
+
+// Media Screen ::: 
+///////////////////
+/// /////////////////
+/// ///////////////////
+@media screen and (max-width: 600px) {
+  .allCareer{
+   
+  .career-timeline {
+   //   position: relative;
+      margin: 0px auto;
+      width: 100%;
+      color: beige;
+     // background-color: #333;
+    }
+  }
+ 
+
+
+}
