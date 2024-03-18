@@ -14,7 +14,7 @@ function App() {
         <div className="Slidebardiv">
           <Slidebar />
         </div> 
-        <div className="homediv" >
+        <div id="home" className="homediv" >
           <Home />
         </div>
        
@@ -22,10 +22,10 @@ function App() {
       <div className="navbardiv">
         <Navbar />
         </div>
-      <div className="myprojectsdiv">
+      <div id="career" className="myprojectsdiv">
         <Career />
       </div>
-      <div className="myprojectsdiv">
+      <div id="projects" className="myprojectsdiv">
         <Myprojects />
       </div>
       <div className="footerdiv">

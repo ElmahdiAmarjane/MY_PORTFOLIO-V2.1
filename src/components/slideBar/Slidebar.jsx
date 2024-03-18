@@ -183,14 +183,14 @@ function Slidebar() {
           <div className="menudiv">
             <nav className="menunav">
               <ul>
-                <li>
-                  <a href="http//">Home</a>
+              <li>
+                  <a href="/#career">Career</a>
                 </li>
                 <li>
-                  <a href="http//">Projects</a>
+                  <a href="/#projects">Projects</a>
                 </li>
                 <li>
-                  <a href="http//">Career</a>
+                  <a href="/contact">Contact</a>
                 </li>
               </ul>
             </nav>

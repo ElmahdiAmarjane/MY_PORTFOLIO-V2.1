@@ -1,5 +1,6 @@
 import React from "react";
 import "./navbar.scss"
+import { Link } from "react-router-dom";
 //import mypic from "../../../public/assets/icons/me2circle.png"
 const Navbar = () =>{
 
@@ -13,11 +14,11 @@ const Navbar = () =>{
                </div>
                <div className="listnav">
                    <ul>
-                     <li>Home</li>
-                     <li>Career</li>
-                     <li>Projects</li>
-                     <li>Technologies</li>
-                     <li>Contact</li>
+                     <li><a href="/#home">Home</a></li>
+                     <li><a href="/#career">Career</a></li>
+                     <li><a href="/#projects">Projects</a></li>
+                     <li><Link to="/mycv">Technologies</Link></li>
+                     <li><Link to="/contact">Contact</Link></li>
                    </ul>
                </div>
                
