@@ -1,5 +1,6 @@
 import React from "react";
 import { useEffect } from "react";
+import { Link } from "react-router-dom";
 import "./cardProject.scss";
 //import starthinc from "../../assets/images/starthinc.jpg";
 //import pfeessaouira from "../../assets/images/pfeessaouira.jpg";
@@ -38,7 +39,7 @@ const CardProject = () => {
           </p>
         </div>
         <div className="btnDiscoverDiv">
-        <button className="btnDiscover">Discover</button>
+         <Link to="/discoverproject"><button className="btnDiscover">Discover</button></Link>
         </div>
        
       </div>
