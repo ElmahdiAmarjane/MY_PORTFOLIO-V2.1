@@ -4,42 +4,48 @@
      "type":"Application web",
      "title":"MANAGE IT EQUIPMENT STOCK",
      "description":"First app , manage computers, keyboroads,chargers , screens , HDDs , USBs ",
-     "technologies":["HTML5" , "CSS3" , "JAVASCRIPT"]
+     "technologies":["HTML5" , "CSS3" , "JAVASCRIPT"],
+     "link":"https://github.com/ElmahdiAmarjane/projet_stage-gestion_materiels_informatiques.git"
    },
    {
     "image" : "worldcupqatar",
     "type":"WEB Application",
     "title":"WORCL CUP QATAR 2022",
-    "description":"know results of match ; staduims infos , unsing API ",
-    "technologies":["HTML5" , "CSS3" , "JAVASCRIPT" , "AXIOS"]
+    "description":"know results of match ; staduims infos , using API ",
+    "technologies":["HTML5" , "CSS3" , "JAVASCRIPT" , "AXIOS"],
+    "link":"https://github.com/ElmahdiAmarjane/Website-world-cup-qatar-2022-using-html-css-js-axios-api/tree/master"
   },
   {
     "image" : "starthincinvoice",
     "type":" WEB Application ",
     "title":"Generate incoice Online Automaticlly",
-    "description":"know results of match ; staduims infos , unsing API ",
-    "technologies":["REACTJS" , "SASS" , "NODEJS" , "EXPRESS" , "POSTGRESQL"]
+    "description":" Web app for invoice generation, streamlining the process and offering both manual and automatic invoice generation functionalities.",
+    "technologies":["REACTJS" , "SASS" , "NODEJS" , "EXPRESS" , "POSTGRESQL"],
+    "link":"https://github.com/ElmahdiAmarjane/invoice-last-version.git"
   },
   {
     "image" :"netlogopfe",
     "type":"Agent-based models",
-    "title":"Prediction AL7ARI9  ",
-    "description":"know results of match ; staduims infos , unsing API ",
-    "technologies":["Netlogo" , "Arduino C"]
+    "title":"Simulate fire propagation",
+    "description":"The objective is to understand how environmental conditions influence the spread of forest fires and the reaction of natural obstacles in such scenarios.",
+    "technologies":["Netlogo" , "Arduino C"],
+    "link":"https://drive.google.com/file/d/1vJ-Gs4sKxIU7EyWsCv1cWtpOiPKYLOGv/view?usp=drive_link"
   },
   {
     "image" : "sipswift",
     "type":"mobile app",
     "title":"SipSwift mobile App reservation",
-    "description":"reserve and command 3assir from univirsite coffee",
-    "technologies":["kotlin" , "Android studio"]
+    "description":"Reserve a drink or cake from the university beverage kiosk (Buvette)",
+    "technologies":["kotlin" , "Android studio"],
+    "link":"https://github.com/ElmahdiAmarjane/KotlinSQLiteCommandAdrink-ESTM.git"
   },
   {
     "image" : "notejee",
     "type":"web jakarta",
     "title":"Manage notes JEE App",
     "description":"Manage your notes",
-    "technologies":["JEE" , "reactJS"]
+    "technologies":["JEE" , "reactJS"],
+    "link":"https://github.com/ElmahdiAmarjane/ReactJS_GNotes_Testing_RESTAPI"
   }
 
 ]

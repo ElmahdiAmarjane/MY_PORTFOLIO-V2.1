@@ -39,7 +39,7 @@ const CardProject = () => {
           </p>
         </div>
         <div className="btnDiscoverDiv">
-         <Link to="/discoverproject"><button className="btnDiscover">Discover</button></Link>
+         <a href={pr.link}><button className="btnDiscover">Discover</button></a>
         </div>
        
       </div>
