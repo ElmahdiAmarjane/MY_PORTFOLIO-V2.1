@@ -1,17 +1,13 @@
 import React from "react";
 import { useEffect } from "react";
-import { Link } from "react-router-dom";
+
 import "./cardProject.scss";
-//import starthinc from "../../assets/images/starthinc.jpg";
-//import pfeessaouira from "../../assets/images/pfeessaouira.jpg";
-//import estmeknes from "../../assets/images/estmeknes.jpg";
 import projectsinfos from "../databaselocal/projectsinfos.json"
 import Aos from "aos"
 import 'aos/dist/aos.css'
 
 const CardProject = () => {
-  //const cardProjectdiv = document.getElementById("CardProject");
-  //const pictures = document.getElementById("pictures");
+
   const projectsJSON =  projectsinfos;
   useEffect(()=>{
     Aos.init({duration:2000});

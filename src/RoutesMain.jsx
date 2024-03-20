@@ -9,7 +9,7 @@ const RoutesMain = () => {
   return (
     <Router>
       <Routes>
-        <Route exact path="/" element={<App />} />
+        <Route exact path="https://elmahdiamarjane1.onrender.com/" element={<App />} />
         <Route exact path="/mycv" element={<Mycv />} />
         <Route exact path="/contact" element={<Contact />} />
         <Route exact path="/discoverproject" element={<DiscoverProject />} />
