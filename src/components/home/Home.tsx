@@ -17,11 +17,11 @@ const Home=()=>{
         </div>
       </div> 
       
-      <h4 id="developpertext"><span>&lt;</span>WEB DEVELOPER<span>/&gt;</span></h4>
+      <h4 id="developpertext"><span>&lt;</span>Software Developer<span>/&gt;</span></h4>
        <div className="audioHello">
         <h4>Listen and get to know me</h4>
            <audio controls>
-          <source src="/assets/audios/Hello.mp3" type="audio/mp3" />
+          <source src="/assets/audios/helloElmahdi.wav" type="audio/mp3" />
               Your browser does not support the audio tag.
         </audio>
        </div>
