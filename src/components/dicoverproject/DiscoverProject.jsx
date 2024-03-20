@@ -5,9 +5,7 @@ const DiscoverProject = ()=>{
     return (
         <>
           <div>
-           <p>My prprprp</p>
-          <img src="/assets/images/testimg.png" alt="" width={"600px"}/>
-
+             ERROR 404
           </div>
        
 
